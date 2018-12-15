@@ -1,1 +1,1 @@
-### Face Recognition Sample
+### Face Recognition Demo
